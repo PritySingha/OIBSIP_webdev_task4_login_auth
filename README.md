@@ -1,4 +1,4 @@
-# 🔐 Task 4 – Login Authentication System
+# 🔐 Login Authentication System
 
 A clean login authentication system built using HTML, CSS, and JavaScript.  
 This project focuses on input validation, user-friendly design, and basic form handling.
@@ -39,4 +39,5 @@ It also taught me how to present a simple authentication interface with professi
 ---
 
 Made with 💻 and 💖 by **Prity Singha**
+
 
